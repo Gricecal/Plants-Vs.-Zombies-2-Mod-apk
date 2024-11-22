@@ -1,0 +1,59 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: uIrvOcIxF4nBTyFubBO2q4HlOhg=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: YgngZVYmh05jAx+6ZyIpXHNSFP8=
+
+Name: assets/PvZ.dz
+SHA1-Digest: DzIU7dvWU3JmLyan+DhDeqCoP7M=
+
+Name: assets/PvZ.s3e
+SHA1-Digest: n/Nv6IRuGhRMAHxeEs6aM3vS1TE=
+
+Name: assets/music/boss.mp3
+SHA1-Digest: ARbxkOUvFp3V/sj4CaRJldPrKDs=
+
+Name: assets/music/cerebrawl.mp3
+SHA1-Digest: qbB/uT1f6a3q0td2gjV/+2W0nME=
+
+Name: assets/music/chooseyourseeds.mp3
+SHA1-Digest: uDa5476XQxwPf4pMAVtAxik0XNk=
+
+Name: assets/music/conveyor.mp3
+SHA1-Digest: UvbrG+3mcVUG6t8hFp2V7xR6Q7s=
+
+Name: assets/music/crazydave.mp3
+SHA1-Digest: jNOWO0JtOD9yX8L3lmWstUmegmg=
+
+Name: assets/music/day.mp3
+SHA1-Digest: wMgWz5Tyl0DlQBTjp+xJfUMV/Dc=
+
+Name: assets/music/fog.mp3
+SHA1-Digest: 06DtaadPk12W7Qh7FRDiFJJqV9g=
+
+Name: assets/music/loonboon.mp3
+SHA1-Digest: eXsxi+FD4VjTUYAroRL8I1wNhVs=
+
+Name: assets/music/night.mp3
+SHA1-Digest: WN08cSoKZfaFAgxKDa0IWkuv+sM=
+
+Name: assets/music/pool.mp3
+SHA1-Digest: mKUq6Y3YnE4XNTcYoeUbpeK00gY=
+
+Name: assets/music/roof.mp3
+SHA1-Digest: U014v7mBI6JqF8H8VNJ9Gl2hbZc=
+
+Name: classes.dex
+SHA1-Digest: 2FsQXIGtlMCkOlDlev9VRFlc4uU=
+
+Name: lib/armeabi/libpvz.so
+SHA1-Digest: k0sMPvRWcc1AZ7E/GjjOmWL5d0s=
+
+Name: res/drawable/icon.png
+SHA1-Digest: P+Jb374V9rrTeiP70bycfHopiZA=
+
+Name: resources.arsc
+SHA1-Digest: vecBlm0mamKT3jTIr8LuOjost7I=
+
